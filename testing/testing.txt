@@ -1,0 +1,9 @@
+
+TDD: test driven development
+this is a kind of development process that involves writting test even before implementation is done. this process takes the red, green refactor process, where code is first tested expecting it to fail before it is reimplemented to pass and finally refactored to properly fit the implementation requirements
+
+Unit tests
+this is a type of test that covers a small unit of code, usually a function independently.
+
+pytest
+this is a greate tool for testing modules, functions and classes in python. it's a test runner. start pytest by typing pytest on you command line or going throgh the documentation for more information	
