@@ -1,0 +1,15 @@
+
+OOP resource links
+Method types: https://realpython.com/instance-class-and-static-methods-demystified/
+
+
+Class and method attr: https://www.python-course.eu/python3_class_and_instance_attributes.php
+
+inheritance mixin: https://easyaspython.com/mixins-for-fun-and-profit-cb9962760556?gi=e64e3ff46aef
+
+python decorators: https://realpython.com/primer-on-python-decorators/
+
+get package name location
+import the package
+<packageName>.__file__
+
